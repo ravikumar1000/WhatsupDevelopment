@@ -7,4 +7,7 @@ Author:Kannan
 
 3.Last seen code
 
+
 4.Attachments (Images,Audio,Video) code.
+
+5.Hiding the LastSeen
