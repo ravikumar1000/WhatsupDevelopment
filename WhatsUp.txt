@@ -1,0 +1,10 @@
+This is whatsup code.
+Author:Kannan
+
+1. Profile page code.
+
+2.Chat screen code
+
+3.Last seen code
+
+4.Attachments (Images,Audio,Video) code.
