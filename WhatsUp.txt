@@ -11,3 +11,6 @@ Author:Kannan
 4.Attachments (Images,Audio,Video) code.
 
 5.Hiding the LastSeen
+6.Video call feature
+7.Audio call feature
+
